@@ -2,15 +2,15 @@
 
 int main()
 {
-    printf("˖ ₊⋆.˚⋆ ‧. ݁ ݁˚. ݁────୨ৎ────˖ ₊⋆.˚⋆ ‧. ݁ ݁˚. ݁ ݁˚. ݁ ݁\n");
-    printf("        STUDENT PROFILE\n");
-    printf("˖ ₊⋆.˚⋆ ‧. ݁ ݁˚. ݁────୨ৎ────˖ ₊⋆.˚⋆ ‧. ݁ ݁˚. ݁˚. ݁ ݁ ݁\n"); 
+    printf("⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n");
+    printf("       ꕤ STUDENT PROFILE ꕤ\n");
+    printf("⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n");
     printf("Name: Jenny Rose Elarmo\n");
     printf("Course and Section: BSIT-1R14\n");
     printf("Year Level: 1st Year\n");
-    printf("಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄\n");
+    printf("⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n");
     printf("        FUTURE WEB DEVELOPER :p\n");
-    printf("಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄಄\n");
+    printf("⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘\n");
 
     return 0;
 }
