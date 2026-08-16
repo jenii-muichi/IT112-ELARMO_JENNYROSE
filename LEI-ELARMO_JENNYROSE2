@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main() {
+    printf("+--------------------------------------+\n");
+    printf("|                                      |\n");
+    printf("|        WELCOME, FUTURE CODER!        |\n");
+    printf("|                                      |\n");
+    printf("|      Build -  Analyze  -  Reflect    |\n");
+    printf("|                                      |\n");
+    printf("|           C PROGRAMMING 1            |\n");
+    printf("|                                      |\n");
+    printf("+--------------------------------------+\n");
+
+    return 0;
+}
