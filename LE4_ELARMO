@@ -12,7 +12,7 @@ int main() {
     printf("Enter your section: ");
     scanf("%s", &section);
 
-    printf("Enter 1st Quarter Grade: ");
+    printf("\nEnter 1st Quarter Grade: \n");
     scanf("%f", &grade1);
 
     printf("Enter 2nd Quarter Grade: ");
